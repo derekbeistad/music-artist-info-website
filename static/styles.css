@@ -1,0 +1,19 @@
+h1 {
+    padding: 10% 0 1%;
+}
+
+img {
+    padding: 0 0 2%;
+}
+
+table {
+    min-width: 100%;
+}
+
+.container {
+    padding: 5% 12% 5%;
+}
+
+.album-img {
+    width: 225px;
+}
